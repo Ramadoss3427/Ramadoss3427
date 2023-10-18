@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ramadoss
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN stock
+- 🌱 I’m currently learning MERN stack
 - 📫 How to reach me ramadoss3427@gmail.com
 
 <!---
